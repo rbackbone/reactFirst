@@ -2,5 +2,5 @@ import React from 'react'
 
 export default () => 
         <div>
-            <h1>Primeiro Componente</h1>
+            <h2>Primeiro Componente</h2>
         </div> 
